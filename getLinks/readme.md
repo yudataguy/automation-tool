@@ -1,7 +1,7 @@
 # getLinks #
 
 ### Language ###
-**Python**
+Python
 
 ### Function ###
 Open specific links on certain page. 
