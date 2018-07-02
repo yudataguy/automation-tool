@@ -14,3 +14,5 @@ This version only requires basic python packages. I have another version built w
 
 ### Usage ###
 `python getlinks.py`
+
+If you'd like to make the script clickable (MacOS), use the `getlinks.command`, make sure to set the permission `chmod u+x getlinks.command` before running.
